@@ -5,6 +5,7 @@
 @media (min-width: 768px) {
     .place__link {
         display: block;
+        font-family: 'Inter';
         font-weight: 400;
         font-size: 18px;
         line-height: 1.22;
