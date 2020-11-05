@@ -1,0 +1,16 @@
+.cover {
+    min-width: 320px;
+    padding: 66px 0 32px;
+}
+
+@media (min-width: 768px) {
+    .cover {
+        padding: 90px 0 44px;
+    }
+}
+
+@media (min-width: 1024px) {
+    .cover {
+        padding: 92px 0 46px;
+    }
+}

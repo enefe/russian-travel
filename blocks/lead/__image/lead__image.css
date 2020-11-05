@@ -1,0 +1,18 @@
+.lead__image {
+    width: 100%;
+}
+
+@media (min-width: 1024px) {
+    .lead__image {
+        width: 928px;
+        margin: 0 auto;
+        display: flex;
+        justify-content: center;
+    }
+}
+
+@media (min-width: 1280px) {
+    .lead__image {
+        width: 984px;
+    }
+}

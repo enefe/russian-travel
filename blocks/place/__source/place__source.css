@@ -1,0 +1,6 @@
+@media (min-width: 768px) {
+    .place__source {
+        grid-area: source;
+        align-self: end;
+    }
+}

@@ -1,0 +1,10 @@
+.header__lang-link-li {
+    display: inline;
+    transition: opacity .3s ease;
+}
+
+@media (min-width: 1024px) {
+    .header__lang-link-li:hover {
+        opacity: .8;
+    }
+}
