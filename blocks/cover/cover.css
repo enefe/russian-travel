@@ -14,3 +14,10 @@
         padding: 92px 0 46px;
     }
 }
+
+@media (min-width: 1280px) {
+    .cover {
+        padding-right: 48px;
+        padding-left: 48px;
+    }
+}

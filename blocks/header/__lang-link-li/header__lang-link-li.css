@@ -1,6 +1,11 @@
 .header__lang-link-li {
     display: inline;
     transition: opacity .3s ease;
+    margin-right: 14px;
+}
+
+.header__lang-link-li:last-child {
+    margin-right: 0;
 }
 
 @media (min-width: 1024px) {

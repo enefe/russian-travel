@@ -12,6 +12,7 @@
 @media (min-width: 1024px) {
     .intro {
         padding: 92px 48px 0;
+        width: 690px;
     }
 }
 
